@@ -1,16 +1,16 @@
-## Selected projects using SQL, Python, and Tableau
+## Selected projects with SQL, Python, and Tableau
 
 ---
 
-### Payment table creation using SQL
-In this project, I built a new payments table that includes amounts paid by each customer by manipulating the two simple tables provided.'
+### Payment Table Creation with SQL
+In this project, I designed and implemented a new payments table by combining and manipulating two existing tables. The resulting table tracks the amounts paid by each customer, providing a streamlined and efficient way to analyze payment data.
 
 [View code on Github](https://github.com/Yeonjujung09/SQL-Portfolio/blob/main/project1_README.md)
 
 ---
 
-### Retention & Revenue Analysis using SQL
-In this project, I built a table that includes retention rate, paid user ratio, ARPPU(Average Revenue per Paid User), and more, that built a revenue simulator.
+### Retention & Revenue Analysis with SQL
+In this project, I created a comprehensive table that tracks key metrics such as retention rate, paid user ratio, and ARPPU (Average Revenue per Paid User). The resulting table helps analyze user behavior and revenue trends, providing valuable insights to support data-driven decisions for business growth.
 
 [View code on Github](https://github.com/Yeonjujung09/SQL-Portfolio/blob/main/project2-0_README.md)
 
