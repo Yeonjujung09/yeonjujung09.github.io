@@ -3,14 +3,14 @@
 ---
 
 ### Payment table creation using SQL
-In this project, I built a new payments table that includes amounts paid by each customer by manipulating the two simple tables provided.
+In this project, I built a new payments table that includes amounts paid by each customer by manipulating the two simple tables provided. <br><br>
 [View code on Github](https://github.com/Yeonjujung09/SQL-Portfolio/blob/main/project1_README.md)
 
 ---
 
 ### Retention & Revenue Analysis using SQL
-In this project, I built a table that includes retention rate, paid user ratio, ARPPU(Average Revenue per Paid User), and more, that built a revenue simulator.
-[View code on Github](https://github.com/Yeonjujung09/SQL-Portfolio/blob/main/project2-0_README.md)
+In this project, I built a table that includes retention rate, paid user ratio, ARPPU(Average Revenue per Paid User), and more, that built a revenue simulator. <br><br>
+[View code on Github](https://github.com/Yeonjujung09/SQL-Portfolio/blob/main/project2-0_README.md) <br><br>
 <img src="/assets/img/sql_screenshot.png?raw=true" />
 
 ---
