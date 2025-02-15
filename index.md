@@ -18,7 +18,7 @@ In this project, I created a comprehensive table that tracks key metrics such as
 
 ---
 ### RFM Analysis with Python
-In this project, I use RFM analysis, a marketing technique that segments customers based on their Recency, Frequency, and Monetary value. This segmentation enables marketing teams to customize messages and campaigns for each group, ultimately boosting customer engagement and driving sales.
+In this project, I used RFM analysis, a marketing technique that segments customers based on their Recency, Frequency, and Monetary value. This segmentation enables marketing teams to customize messages and campaigns for each group, ultimately boosting customer engagement and driving sales.
 
 [View code on Colab](https://colab.research.google.com/drive/1zLABKULP_ulzp7KBz_xqMVPtBUgyq1Zx)
 
