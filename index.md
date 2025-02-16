@@ -24,7 +24,8 @@ In this project, I used RFM analysis, a marketing technique that segments custom
 
 ---
 ### Dashboard Portfolio
-This portfolio showcases four Metabase dashboards and four Tableau dashboards, each designed to meet the unique needs of clients and internal teams. 
+This portfolio showcases four Metabase dashboards and four Tableau dashboards, each designed to meet the unique needs of clients and internal teams.
+<img src="/assets/img/Dashboard.png?raw=true" />
 
-[View portfolio](./another-page.html)
+[View portfolio](./another-page.html) (Please give it five seconds to load!)
 
